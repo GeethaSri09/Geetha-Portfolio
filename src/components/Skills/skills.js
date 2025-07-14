@@ -7,11 +7,12 @@ import tailwind_css from '../../assests/tailwind_css.png';
 import c_lang from '../../assests/c_lang.png';
 import cpp from '../../assests/cpp.png';
 import react from '../../assests/react.png';
-import django from '../../assests/django.svg';
+import django from '../../assests/mongodb.png';
 import python from '../../assests/python.png';
 import git from '../../assests/git.png';
-import mysql from '../../assests/mysql.png';
-import github from '../../assests/github.jpg'
+import mysql from '../../assests/SQL.png';
+import github from '../../assests/github.jpg';
+import figma from '../../assests/figma.png';
 
 
 const Skills = () => {
@@ -33,23 +34,24 @@ const Skills = () => {
           <img src={javascript} alt="javascript" className='js'/>
           <p>Javascript</p>
         </div>
-        <div className="webskills tailwind_css">
-          <img src={tailwind_css} alt="tailwind_css" className='tailwind'/>
-          <p>Tailwind CSS</p>
-        </div>
+        
         <div className="webskills">
           <img src={react} alt="react" className='react'/>
           <p>React</p>
+        </div>
+        <div className="webskills">
+          <img src={figma} alt="react" className='react'/>
+          <p>Figma</p>
         </div>
       </div>
       <div className='secondrow'>
       <div className="webskills">
           <img src={django} alt="django" className='django'/>
-          <p>Django</p>
+          <p>Mongodb</p>
         </div>
         <div className="webskills">
           <img src={mysql} alt="mysql" className='mysql'/>
-          <p>MySQL</p>
+          <p>SQL</p>
         </div>
         <div className="webskills css">
           <img src={python} alt="cpp" className='cpp_lang'/>

@@ -17,7 +17,7 @@ const Navbar = () => {
         <Link className="desktopmenulistitem" to="profiles" smooth={true} duration={80}>Profiles</Link>
         <Link className="desktopmenulistitem" to="contact" smooth={true} duration={80}>Contact</Link>
       </div>
-      <a href="https://github.com/Pushpa-Harshitha05" target="_blank" rel="noopener noreferrer" className='desktopmenubtn'>
+      <a href="https://github.com/GeethaSri09" target="_blank" rel="noopener noreferrer" className='desktopmenubtn'>
       <img src={github} alt="->"className="desktopmenuimg"/>GitHub</a>
     </nav>
   )

@@ -40,13 +40,13 @@ const Intro = () => {
     <section id="intro">
       <div className="sectioncontent">
         <span className="hello">Hello,</span>
-        <span className="introtext">I'm <span className="introname">Pushpa Harshitha</span></span>
+        <span className="introtext">I'm <span className="introname">Geethasri Nimmadala</span></span>
         <div className="titles">
           <span className="changetitle">{text}</span>
           <div className="tick"></div>
         </div>
         <div className="introbtn">
-          <a href="mailto:pharshitha2005@gmail.com" target="_blank" rel="noopener noreferrer" className="hireme">Hire me</a>
+          <a href="mailto:nimmadalageethasri@gmail.com" target="_blank" rel="noopener noreferrer" className="hireme">Hire me</a>
           <a href={`${process.env.PUBLIC_URL}/pushpa_harshitha_resume.pdf`} target="_blank" rel="noopener noreferrer" className="resume">Resume</a>
         </div>
       </div>

@@ -1,8 +1,9 @@
 import React from 'react'
 import './projects.css';
 import rock from '../../assests/rock_game.png'
-import e_commerce from '../../assests/e-commerce.jpg'
-import ambulance from '../../assests/ambulance_tarcker.webp'
+import weather from '../../assests/weather.jpg'
+import BookStore from '../../assests/Bookstore.jpg'
+import movie from '../../assests/movie.jpg'
 
 const Projects = () => {
   return (
@@ -13,14 +14,14 @@ const Projects = () => {
       <div className="projectsdiv">
         <div className="project project1">
           <div className="projectpic">
-            <img src={ambulance} alt="ambulance" className="notepad"/>
+            <img src={BookStore} alt="BookStore" className="notepad book"/>
           </div>
-          <div className="projectname ambulance">
-            <p>Ambulance Tracker and Informer</p>
+          <div className="projectname Bookstore">
+            <p>Book Store</p>
           </div>
           <div className="projectbtns">
-            <a href="https://github.com/Pushpa-Harshitha05/Ambulance_tracker-and-Informer" target="_blank" rel="noopener noreferrer" className="btns">GitHub</a>
-            <a href="http://www.google.com" target="_blank" rel="noopener noreferrer" className="btns">Live</a>
+            <a href="https://github.com/GeethaSri09/Book-Store" target="_blank" rel="noopener noreferrer" className="btns">GitHub</a>
+            <a href="https://geethasri09.github.io/Book-Store/" target="_blank" rel="noopener noreferrer" className="btns">Live</a>
           </div>
         </div> 
         <div className="project project1">
@@ -31,31 +32,32 @@ const Projects = () => {
             <p>Rock Paper Scissors</p>
           </div>
           <div className="projectbtns">
-            <a href="https://github.com/Pushpa-Harshitha05/rock_paper_scissors" target="_blank" rel="noopener noreferrer" className="btns">GitHub</a>
-            <a href="http://www.google.com" target="_blank" rel="noopener noreferrer" className="btns">Live</a>
+            <a href="https://github.com/GeethaSri09/Rock-Papper-Scissor" target="_blank" rel="noopener noreferrer" className="btns">GitHub</a>
+            <a href="https://geethasri09.github.io/Rock-Papper-Scissor/" target="_blank" rel="noopener noreferrer" className="btns">Live</a>
           </div>
         </div>
         <div className="project project2">
           <div className="projectpic">
-            <img src={e_commerce} alt="e-commerce" className="e_comm"/>
+            <img src={weather} alt="weather" className="weathera"/>
           </div>
-          <div className="projectname electronics">
-            <p>Guru Electronics and Mobile Accessories</p>
+          <div className="projectname weather">
+            <p>Weather App</p>
           </div>
           <div className="projectbtns">
-            <a href="https://github.com/Pushpa-Harshitha05/Electronics-Website" target="_blank" rel="noopener noreferrer" className="btns">GitHub</a>
-            <a href="http://www.google.com" target="_blank" rel="noopener noreferrer" className="btns">Live</a>
+            <a href="https://github.com/GeethaSri09/WEATHER-APP" target="_blank" rel="noopener noreferrer" className="btns">GitHub</a>
+            <a href="https://geethasri09.github.io/WEATHER-APP/" target="_blank" rel="noopener noreferrer" className="btns">Live</a>
           </div>
         </div>
         <div className="project project3">
           <div className="projectpic">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Notepad_Win11.svg/800px-Notepad_Win11.svg.png" alt="notepad" className="notepad"/>
+            <img src={movie} alt="movie" className="notepad"/>
           </div>
           <div className="projectname">
-            <p>Notepad</p>
+            <p>Movie App</p>
           </div>
           <div className="projectbtns">
-            <a href="https://github.com/Pushpa-Harshitha05/Mini_Notepad" target="_blank" rel="noopener noreferrer" className="btns">GitHub</a>
+            <a href="https://github.com/GeethaSri09/Movie-App" target="_blank" rel="noopener noreferrer" className="btns">GitHub</a>
+            <a href="https://geethasri09.github.io/Movie-App/" target="_blank" rel="noopener noreferrer" className="btns">Live</a>
           </div>
         </div> 
       </div>

@@ -12,9 +12,9 @@ const Contact = () => {
   const handleSubmit = (e) => {
   e.preventDefault();
 
-  const serviceID = 'service_hyz9flq';
-  const templateID = 'template_zwj2ffw';
-  const publicKey = 'GamezMnodaSIpdqMG';
+  const serviceID = 'service_w0eam0p';
+  const templateID = 'template_epjfu85';
+  const publicKey = '4NHCosG0IU5fX6wRm';
 
   const templateParams = {
     from_name: formData.name,
