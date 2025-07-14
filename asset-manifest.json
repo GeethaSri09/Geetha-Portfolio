@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Geetha-Portfolio/static/css/main.be7ae5e1.css",
+    "main.js": "/Geetha-Portfolio/static/js/main.34af1975.js",
+    "static/media/profile.png": "/Geetha-Portfolio/static/media/profile.b3334efbdd226f7cc39b.png",
+    "static/media/c_lang.png": "/Geetha-Portfolio/static/media/c_lang.4af3254b864d4e030bfa.png",
+    "static/media/codechef.png": "/Geetha-Portfolio/static/media/codechef.e2b4a904d4ce95f9c8d3.png",
+    "static/media/mongodb.png": "/Geetha-Portfolio/static/media/mongodb.974beb38d9f06eeed8f2.png",
+    "static/media/Bookstore.jpg": "/Geetha-Portfolio/static/media/Bookstore.851e1bd5b8dd89b353c1.jpg",
+    "static/media/SQL.png": "/Geetha-Portfolio/static/media/SQL.b40c794352fbec47ee52.png",
+    "static/media/rock_game.png": "/Geetha-Portfolio/static/media/rock_game.606891dc9d5d7651f75d.png",
+    "static/media/cpp.png": "/Geetha-Portfolio/static/media/cpp.053a898d752aef72651e.png",
+    "static/media/weather.jpg": "/Geetha-Portfolio/static/media/weather.a7d77c8c6e5f8d4fd02e.jpg",
+    "static/media/movie.jpg": "/Geetha-Portfolio/static/media/movie.628d2937942aefce11c3.jpg",
+    "static/media/figma.png": "/Geetha-Portfolio/static/media/figma.583bc2be66ea0fd728c5.png",
+    "static/media/css.png": "/Geetha-Portfolio/static/media/css.17d14cbe91cbf1433b63.png",
+    "static/media/react.png": "/Geetha-Portfolio/static/media/react.7be14a06594d780a8030.png",
+    "static/media/javascript.webp": "/Geetha-Portfolio/static/media/javascript.7b75e9a748e24de3a8d0.webp",
+    "static/media/p_icon.svg": "/Geetha-Portfolio/static/media/p_icon.ddf1dda7b093851a2f442ef8152530ed.svg",
+    "index.html": "/Geetha-Portfolio/index.html",
+    "main.be7ae5e1.css.map": "/Geetha-Portfolio/static/css/main.be7ae5e1.css.map",
+    "main.34af1975.js.map": "/Geetha-Portfolio/static/js/main.34af1975.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be7ae5e1.css",
+    "static/js/main.34af1975.js"
+  ]
+}
