@@ -20,8 +20,8 @@ const Projects = () => {
             <p>Book Store</p>
           </div>
           <div className="projectbtns">
-            <a href="https://github.com/GeethaSri09/Book-Store" target="_blank" rel="noopener noreferrer" className="btns">GitHub</a>
-            <a href="https://geethasri09.github.io/Book-Store/" target="_blank" rel="noopener noreferrer" className="btns">Live</a>
+            <a href="https://github.com/GeethaSri09/BookStore" target="_blank" rel="noopener noreferrer" className="btns">GitHub</a>
+            <a href="https://bookstore-frontend-4o97.onrender.com" target="_blank" rel="noopener noreferrer" className="btns">Live</a>
           </div>
         </div> 
         <div className="project project1">
