@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Geetha-Portfolio/static/css/main.be7ae5e1.css",
-    "main.js": "/Geetha-Portfolio/static/js/main.1d9c4883.js",
+    "main.js": "/Geetha-Portfolio/static/js/main.f53a2d27.js",
     "static/media/profile.png": "/Geetha-Portfolio/static/media/profile.b3334efbdd226f7cc39b.png",
     "static/media/c_lang.png": "/Geetha-Portfolio/static/media/c_lang.4af3254b864d4e030bfa.png",
     "static/media/codechef.png": "/Geetha-Portfolio/static/media/codechef.e2b4a904d4ce95f9c8d3.png",
@@ -19,10 +19,10 @@
     "static/media/p_icon.svg": "/Geetha-Portfolio/static/media/p_icon.ddf1dda7b093851a2f442ef8152530ed.svg",
     "index.html": "/Geetha-Portfolio/index.html",
     "main.be7ae5e1.css.map": "/Geetha-Portfolio/static/css/main.be7ae5e1.css.map",
-    "main.1d9c4883.js.map": "/Geetha-Portfolio/static/js/main.1d9c4883.js.map"
+    "main.f53a2d27.js.map": "/Geetha-Portfolio/static/js/main.f53a2d27.js.map"
   },
   "entrypoints": [
     "static/css/main.be7ae5e1.css",
-    "static/js/main.1d9c4883.js"
+    "static/js/main.f53a2d27.js"
   ]
 }
